@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently a student in **Patika.dev - HepsiBurada iOS Bootcamp**
 
-- 💬 Ask me about **Android(TensorFlow), Swift, SwiftUI**
+- 💬 Ask me about **Android(TensorFlow), Swift, UIKit**
 
 - 📫 How to reach me:  **mustafagorgun87@hotmail.com**
 
